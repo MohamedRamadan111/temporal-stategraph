@@ -1,0 +1,8 @@
+# TemporalStateGraph — Requirements
+# Python 3.9+
+
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+openai>=1.0         # optional: if using OpenAI directly
+urllib3>=1.26       # for OpenRouter calls (stdlib urllib used by default)

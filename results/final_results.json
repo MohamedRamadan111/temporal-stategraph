@@ -1,0 +1,2144 @@
+{
+  "42_0": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "42_1": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 16.0,
+      "stale": 2.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.4,
+      "avg_score": 3.2
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_2": {
+    "TemporalStateGraph": {
+      "score": 25.0,
+      "correct": 5.0,
+      "accuracy": 1.0,
+      "stale": 0.0,
+      "stale_rate": 0.0,
+      "avg_score": 5.0
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_3": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    }
+  },
+  "42_4": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 3.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.6,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_5": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 21.0,
+      "correct": 4.0,
+      "stale": 2.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.4,
+      "avg_score": 4.2
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 21.0,
+      "correct": 4.0,
+      "stale": 2.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.4,
+      "avg_score": 4.2
+    }
+  },
+  "42_6": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 10.0,
+      "stale": 4.0,
+      "correct": 0.0,
+      "accuracy": 0.0,
+      "stale_rate": 0.8,
+      "avg_score": 2.0
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "42_7": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "42_8": {
+    "TemporalStateGraph": {
+      "score": 25.0,
+      "correct": 5.0,
+      "accuracy": 1.0,
+      "stale": 0.0,
+      "stale_rate": 0.0,
+      "avg_score": 5.0
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_9": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 10.0,
+      "stale": 5.0,
+      "correct": 0.0,
+      "accuracy": 0.0,
+      "stale_rate": 1.0,
+      "avg_score": 2.0
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_10": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    }
+  },
+  "42_11": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    }
+  },
+  "42_12": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "42_13": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 10.0,
+      "stale": 4.0,
+      "correct": 0.0,
+      "accuracy": 0.0,
+      "stale_rate": 0.8,
+      "avg_score": 2.0
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_14": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "42_15": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 3.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.6,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "42_16": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 10.0,
+      "stale": 4.0,
+      "correct": 0.0,
+      "accuracy": 0.0,
+      "stale_rate": 0.8,
+      "avg_score": 2.0
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_17": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 10.0,
+      "stale": 4.0,
+      "correct": 0.0,
+      "accuracy": 0.0,
+      "stale_rate": 0.8,
+      "avg_score": 2.0
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_18": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "RecencyMemory": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "SlidingWindow": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    }
+  },
+  "42_19": {
+    "TemporalStateGraph": {
+      "score": 25.0,
+      "correct": 5.0,
+      "accuracy": 1.0,
+      "stale": 0.0,
+      "stale_rate": 0.0,
+      "avg_score": 5.0
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 10.0,
+      "stale": 4.0,
+      "correct": 0.0,
+      "accuracy": 0.0,
+      "stale_rate": 0.8,
+      "avg_score": 2.0
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "42_20": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_21": {
+    "TemporalStateGraph": {
+      "score": 25.0,
+      "correct": 5.0,
+      "accuracy": 1.0,
+      "stale": 0.0,
+      "stale_rate": 0.0,
+      "avg_score": 5.0
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_22": {
+    "TemporalStateGraph": {
+      "score": 25.0,
+      "correct": 5.0,
+      "accuracy": 1.0,
+      "stale": 0.0,
+      "stale_rate": 0.0,
+      "avg_score": 5.0
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "42_23": {
+    "TemporalStateGraph": {
+      "score": 25.0,
+      "correct": 5.0,
+      "accuracy": 1.0,
+      "stale": 0.0,
+      "stale_rate": 0.0,
+      "avg_score": 5.0
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "42_24": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_25": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_26": {
+    "TemporalStateGraph": {
+      "score": 25.0,
+      "correct": 5.0,
+      "accuracy": 1.0,
+      "stale": 0.0,
+      "stale_rate": 0.0,
+      "avg_score": 5.0
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "42_27": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "RecencyMemory": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "SlidingWindow": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    }
+  },
+  "42_28": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 3.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.6,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_29": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    }
+  },
+  "42_30": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "stale": 2.0,
+      "correct": 3.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 3.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.6,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "stale": 2.0,
+      "correct": 3.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "42_31": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_32": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    }
+  },
+  "42_33": {
+    "TemporalStateGraph": {
+      "score": 25.0,
+      "correct": 5.0,
+      "accuracy": 1.0,
+      "stale": 0.0,
+      "stale_rate": 0.0,
+      "avg_score": 5.0
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_34": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    }
+  },
+  "42_35": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 10.0,
+      "stale": 5.0,
+      "correct": 0.0,
+      "accuracy": 0.0,
+      "stale_rate": 1.0,
+      "avg_score": 2.0
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "42_36": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 10.0,
+      "stale": 5.0,
+      "correct": 0.0,
+      "accuracy": 0.0,
+      "stale_rate": 1.0,
+      "avg_score": 2.0
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_37": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "42_38": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "42_39": {
+    "TemporalStateGraph": {
+      "score": 25.0,
+      "correct": 5.0,
+      "accuracy": 1.0,
+      "stale": 0.0,
+      "stale_rate": 0.0,
+      "avg_score": 5.0
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "42_40": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    }
+  },
+  "42_41": {
+    "TemporalStateGraph": {
+      "score": 25.0,
+      "correct": 5.0,
+      "accuracy": 1.0,
+      "stale": 0.0,
+      "stale_rate": 0.0,
+      "avg_score": 5.0
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_42": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 21.0,
+      "correct": 4.0,
+      "stale": 2.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.4,
+      "avg_score": 4.2
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 21.0,
+      "correct": 4.0,
+      "stale": 2.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.4,
+      "avg_score": 4.2
+    }
+  },
+  "42_43": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 10.0,
+      "stale": 5.0,
+      "correct": 0.0,
+      "accuracy": 0.0,
+      "stale_rate": 1.0,
+      "avg_score": 2.0
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "42_44": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 3.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.6,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_45": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 10.0,
+      "stale": 4.0,
+      "correct": 0.0,
+      "accuracy": 0.0,
+      "stale_rate": 0.8,
+      "avg_score": 2.0
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_46": {
+    "TemporalStateGraph": {
+      "score": 25.0,
+      "correct": 5.0,
+      "accuracy": 1.0,
+      "stale": 0.0,
+      "stale_rate": 0.0,
+      "avg_score": 5.0
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 10.0,
+      "stale": 4.0,
+      "correct": 0.0,
+      "accuracy": 0.0,
+      "stale_rate": 0.8,
+      "avg_score": 2.0
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_47": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_48": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 10.0,
+      "stale": 5.0,
+      "correct": 0.0,
+      "accuracy": 0.0,
+      "stale_rate": 1.0,
+      "avg_score": 2.0
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "42_49": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 3.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.6,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "1337_0": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "RecencyMemory": {
+      "score": 10.0,
+      "stale": 4.0,
+      "correct": 0.0,
+      "accuracy": 0.0,
+      "stale_rate": 0.8,
+      "avg_score": 2.0
+    },
+    "SlidingWindow": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    }
+  },
+  "1337_1": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "1337_2": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "1337_3": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 10.0,
+      "stale": 4.0,
+      "correct": 0.0,
+      "accuracy": 0.0,
+      "stale_rate": 0.8,
+      "avg_score": 2.0
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "stale": 3.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "1337_4": {
+    "TemporalStateGraph": {
+      "score": 25.0,
+      "correct": 5.0,
+      "accuracy": 1.0,
+      "stale": 0.0,
+      "stale_rate": 0.0,
+      "avg_score": 5.0
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  },
+  "1337_5": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 3.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.6,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "1337_6": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "RecencyMemory": {
+      "score": 10.0,
+      "stale": 5.0,
+      "correct": 0.0,
+      "accuracy": 0.0,
+      "stale_rate": 1.0,
+      "avg_score": 2.0
+    },
+    "SlidingWindow": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    }
+  },
+  "1337_7": {
+    "TemporalStateGraph": {
+      "score": 25.0,
+      "correct": 5.0,
+      "accuracy": 1.0,
+      "stale": 0.0,
+      "stale_rate": 0.0,
+      "avg_score": 5.0
+    },
+    "StaticMemory": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    }
+  },
+  "1337_8": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "RecencyMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "SlidingWindow": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    }
+  },
+  "1337_9": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    },
+    "RecencyMemory": {
+      "score": 10.0,
+      "stale": 4.0,
+      "correct": 0.0,
+      "accuracy": 0.0,
+      "stale_rate": 0.8,
+      "avg_score": 2.0
+    },
+    "SlidingWindow": {
+      "score": 19.0,
+      "correct": 3.0,
+      "stale": 2.0,
+      "accuracy": 0.6,
+      "stale_rate": 0.4,
+      "avg_score": 3.8
+    }
+  },
+  "1337_10": {
+    "TemporalStateGraph": {
+      "score": 25.0,
+      "correct": 5.0,
+      "accuracy": 1.0,
+      "stale": 0.0,
+      "stale_rate": 0.0,
+      "avg_score": 5.0
+    },
+    "StaticMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "RecencyMemory": {
+      "score": 10.0,
+      "stale": 4.0,
+      "correct": 0.0,
+      "accuracy": 0.0,
+      "stale_rate": 0.8,
+      "avg_score": 2.0
+    },
+    "SlidingWindow": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    }
+  },
+  "1337_11": {
+    "TemporalStateGraph": {
+      "score": 25.0,
+      "correct": 5.0,
+      "accuracy": 1.0,
+      "stale": 0.0,
+      "stale_rate": 0.0,
+      "avg_score": 5.0
+    },
+    "StaticMemory": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    },
+    "RecencyMemory": {
+      "score": 10.0,
+      "stale": 4.0,
+      "correct": 0.0,
+      "accuracy": 0.0,
+      "stale_rate": 0.8,
+      "avg_score": 2.0
+    },
+    "SlidingWindow": {
+      "score": 13.0,
+      "stale": 4.0,
+      "correct": 1.0,
+      "accuracy": 0.2,
+      "stale_rate": 0.8,
+      "avg_score": 2.6
+    }
+  },
+  "1337_12": {
+    "TemporalStateGraph": {
+      "score": 22.0,
+      "correct": 4.0,
+      "stale": 1.0,
+      "accuracy": 0.8,
+      "stale_rate": 0.2,
+      "avg_score": 4.4
+    },
+    "StaticMemory": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    },
+    "RecencyMemory": {
+      "score": 16.0,
+      "stale": 2.0,
+      "correct": 2.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.4,
+      "avg_score": 3.2
+    },
+    "SlidingWindow": {
+      "score": 16.0,
+      "correct": 2.0,
+      "stale": 3.0,
+      "accuracy": 0.4,
+      "stale_rate": 0.6,
+      "avg_score": 3.2
+    }
+  }
+}
